@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>600632249734-aihmp3f64vs0oh8cjp48t4d06mq0pglv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.600632249734-aihmp3f64vs0oh8cjp48t4d06mq0pglv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA83bhlH2hqjLPjoLBr1HExH0UM9nBwaJU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>600632249734</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.KYH-Firebase-Intro</string>
+	<key>PROJECT_ID</key>
+	<string>kyh-intro</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kyh-intro.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:600632249734:ios:ae1ceab025e9910d9b7007</string>
+</dict>
+</plist>
